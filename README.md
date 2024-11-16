@@ -47,10 +47,10 @@ The goal is to build a machine learning model that accurately predicts movie rat
 ---
 
 ## Results  
-- **Model**: Random Forest Regressor  
+- **Model**:  1.6158   
 - **Metrics**:  
-  - **Mean Squared Error (MSE)**: [Value to be updated after execution]  
-  - **R² Score**: [Value to be updated after execution]  
+  - **Mean Squared Error (MSE)**: 0.1274
+  - **R² Score**: 5.11
 
 ---
 
@@ -68,7 +68,7 @@ pip install numpy pandas scikit-learn
    git clone https://github.com/your-username/Movie_Rating_Prediction.git  
    cd Movie_Rating_Prediction  
    ```  
-2. Place your dataset in the project directory as `movie_data.csv`.  
+2. Place your dataset in the project directory as `IMDb Movies India.csv`.  
 3. Run the script in your Python environment (e.g., Jupyter Notebook, VS Code).  
 
 
