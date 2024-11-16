@@ -65,7 +65,7 @@ pip install numpy pandas scikit-learn
 ### Steps to Run  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/your-username/Movie_Rating_Prediction.git  
+   git clone https://github.com/bhavishyashetty/Movie_Rating_Prediction.git
    cd Movie_Rating_Prediction  
    ```  
 2. Place your dataset in the project directory as `IMDb Movies India.csv`.  
